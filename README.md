@@ -40,3 +40,30 @@ Evaluation Criteria:
 
 
 Good luck, and happy coding!
+
+
+## Start:
+
+Fork this repo, then Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+This will start a development server on port 3000 and allow you to access the application in your browser.
+
+```bash
+  npm run dev
+```
