@@ -1,9 +1,10 @@
 import "./App.css";
+import TaskList from "./components/TaskList.js";
 
 function App() {
   return (
     <div>
-      <h1>Works</h1>
+      <TaskList />
     </div>
   );
 }
