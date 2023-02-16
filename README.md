@@ -65,5 +65,5 @@ Install dependencies
 This will start a development server on port 3000 and allow you to access the application in your browser.
 
 ```bash
-  npm run dev
+  npm start
 ```
