@@ -1,9 +1,5 @@
 # Meta-assignment
 
-## Task List Component
-
-Attention, dear Meta reviewers! Behold the magnificent Task List component, created with the power of React and Styled Components. Feast your eyes on this practical and visually appealing piece of code, designed to help users keep track of their daily tasks. With the Task List component, users can easily add, edit, and delete tasks as needed, all within a simple and intuitive user interface. The component is fully responsive, so it looks great on all devices, and it includes helpful features such as task filtering and status tracking. So come, dear Meta reviewers, and bask in the glory of this powerful and practical code, which shall surely dazzle and delight all who behold it!
-
 🎯
 
 ## Guidelines
